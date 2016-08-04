@@ -8,8 +8,6 @@ aliases = ["/events/2016-portland"]
 
 +++
 
-## {{< event_start >}} - {{< event_end >}}
-
 <div style="text-align:center;">
   {{< event_logo >}}
 </div>
@@ -35,19 +33,19 @@ aliases = ["/events/2016-portland"]
 
 <div class = "row">
   <div class = "col-md-2">
-    <strong>Propose</strong>
+    <strong>Register</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="propose" text="Propose a talk!" >}}
+    <a href="https://devopsdayspdx2016.busyconf.com/bookings/new">Register to attend the event!</a>
   </div>
 </div>
 
 <div class = "row">
   <div class = "col-md-2">
-    <strong>Register</strong>
+    <strong>Volunteer</strong>
   </div>
   <div class = "col-md-8">
-    <a href="https://devopsdayspdx2016.busyconf.com/bookings/new">Register to attend the event!</a>
+    <a href="http://tinyurl.com/devopsdayspdx2016-volunteer">Be a part of DevOpsDays by volunteering.</a>
   </div>
 </div>
 
